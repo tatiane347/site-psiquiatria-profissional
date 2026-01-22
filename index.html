@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dra. Tatiane Souza | Psiquiatra</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="img/favicon.png">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font Awesome Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Scroll Behavior -->
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+
+<!-- WhatsApp Floating Button -->
+<a href="https://wa.me/5511910526709" class="whatsapp-float" target="_blank">
+    <i class="bi bi-whatsapp"></i>
+</a>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top shadow-sm">
+    <div class="container">
+        <a class="navbar-brand fw-bold" href="#home">Dra. Tatiane Souza</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#home">Início</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#sobre">Sobre</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#especialidades">Especialidades</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contato">Contato</a>
+                </li>
+                <li class="nav-item">
+                    <a class="btn btn-primary text-white ms-lg-3" href="#contato">Agendar Consulta</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Hero Section -->
+<section id="home" class="hero">
+    <div class="container text-center">
+        <h1>Psiquiatria com acolhimento e ciência</h1>
+        <p>CRM-SP 123456 | Atendimento presencial e online</p>
+        <a href="https://wa.me/5511910526709" class="btn btn-primary btn-lg mt-3">Agendar Consulta</a>
+    </div>
+</section>
+
+<!-- Sobre -->
+<section id="sobre" class="section">
+    <div class="container">
+        <h2 class="section-title">Sobre a Doutora</h2>
+        <p>
+            Dra. Tatiane Souza é médica psiquiatra formada pela <strong>Universidade Paulista de Ciências Médicas (UPCM)</strong>,
+            com especialização em Psiquiatria Clínica e Saúde Mental.
+        </p>
+        <p>
+            Atua com abordagem humanizada, baseada em evidências científicas, focada no bem-estar emocional e qualidade de vida dos pacientes.
+        </p>
+        <ul>
+            <li>📍 São Paulo – Brasil</li>
+            <li>🧠 Psiquiatria Clínica</li>
+            <li>🔒 Sigilo e ética profissional</li>
+        </ul>
+    </div>
+</section>
+
+<!-- Especialidades -->
+<section id="especialidades" class="section bg-light">
+    <div class="container">
+        <h2 class="section-title">Especialidades</h2>
+        <div class="row g-4">
+            <div class="col-md-4">Ansiedade</div>
+            <div class="col-md-4">Depressão</div>
+            <div class="col-md-4">Transtorno Bipolar</div>
+            <div class="col-md-4">TDAH</div>
+            <div class="col-md-4">Insônia</div>
+            <div class="col-md-4">Transtornos do Humor</div>
+        </div>
+    </div>
+</section>
+
+<!-- Contato -->
+<section id="contato" class="section">
+    <div class="container">
+        <h2 class="section-title">Agende sua Consulta</h2>
+        <form id="contactForm" class="col-md-6 mx-auto" method="POST">
+            <div class="mb-3">
+                <input type="text" class="form-control" id="nome" placeholder="Nome completo" required>
+            </div>
+            <div class="mb-3">
+                <input type="email" class="form-control" id="email" placeholder="E-mail" required>
+            </div>
+            <div class="mb-3">
+                <input type="tel" class="form-control" id="telefone" placeholder="Telefone" required>
+            </div>
+            <div class="mb-3">
+                <textarea class="form-control" id="mensagem" placeholder="Mensagem" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Enviar</button>
+            <div id="successMessage" class="alert alert-success mt-3 d-none">
+                ✅ Mensagem enviada com sucesso! Entraremos em contato.
+            </div>
+        </form>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <p>Dra. Tatiane Souza – CRM-SP 123456</p>
+        <p>Este site possui caráter informativo conforme normas do CFM.</p>
+    </div>
+</footer>
+
+<!-- JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
