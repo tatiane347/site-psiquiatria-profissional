@@ -25,7 +25,7 @@ body {
 ================================ */
 .hero {
     position: relative;
-    background-image: url('../img/hero-image.jpg');
+    background-image: url('hero-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;  /* Prioriza o topo da imagem */
