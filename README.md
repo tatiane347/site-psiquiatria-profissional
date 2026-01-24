@@ -82,8 +82,8 @@ img/hero-image.jpg
 
 O projeto está publicado via GitHub Pages.
 Acesse pelo link:
-🔗 https://tatiane347.github.io/site-psiquiatria-profissional/
-(exemplo — ajuste para o link real do repositório)
+🔗 https:[//tatiane347.github.io/site-psiquiatria-profissional/
+(exemplo — ajuste para o link real do repositório)](https://tatiane347.github.io/site-psiquiatria-profissional/#home)
 
 ⚠️ Aviso Importante
 
@@ -103,12 +103,14 @@ Todos os direitos reservados.
 
 📸 Prévia do Projeto
 
-(adicione aqui as imagens do site)
-![Preview 1](link-da-imagem) ![Preview 2](link-da-imagem) ![Preview 3](link-da-imagem) 
-[url=https://postimg.cc/TpgcCCgb][img]https://i.postimg.cc/TpgcCCgb/IMG-20260122-194154-918.jpg[/img][/url]
+(<img width="558" height="2305" alt="Screenshot 2026-01-22 at 15-06-09 Dra  Tatiane Souza Psiquiatra" src="https://github.com/user-attachments/assets/2b7cfaf8-fe2b-4fd1-8306-6621c45b5f78" />
 
-[url=https://postimg.cc/w7Lk00Lh][img]https://i.postimg.cc/w7Lk00Lh/IMG-20260122-194206-995.jpg[/img][/url]
 
-[url=https://postimg.cc/8jMbttMR][img]https://i.postimg.cc/8jMbttMR/IMG-20260122-194215-976.jpg[/img][/url]
+<img width="1024" height="514" alt="Screenshot 2026-01-22 at 15-51-55 Dra  Tatiane Souza Psiquiatra" src="https://github.com/user-attachments/assets/6a18034a-23df-41d2-913f-ff515cd3c5d8" />
 
-[url=https://postimg.cc/GHGjqqGv][img]https://i.postimg.cc/GHGjqqGv/IMG-20260122-194224-180.jpg[/img][/url]
+
+<img width="1024" height="514" alt="Screenshot 2026-01-22 at 15-52-12 Dra  Tatiane Souza Psiquiatra" src="https://github.com/user-attachments/assets/8cd932a6-678d-4224-b139-6d4b47020a54" />
+
+
+<img width="1024" height="514" alt="Screenshot 2026-01-22 at 15-52-29 Dra  Tatiane Souza Psiquiatra" src="https://github.com/user-attachments/assets/53486f95-439f-4161-a019-08f77f26c354" />
+
